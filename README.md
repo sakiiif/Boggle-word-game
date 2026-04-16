@@ -1,4 +1,4 @@
-# 🧩 Boggle Word Game (Python Tkinter)
+# 🧩 Boggle Word Game
 
 A fully interactive **Boggle Word Game** built with Python and Tkinter, featuring real-time gameplay, adjacency-based word formation, and a responsive GUI.
 
