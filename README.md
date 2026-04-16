@@ -68,6 +68,6 @@ A built-in timer enforces a **3-minute gameplay window**, after which the board 
 ## 📂 Project Structure
 
 ```bash
-Boggle%20%word%20%game/
+Boggle-word-game/
 │── Boggle word game.py        # Complete game logic + GUI
 │── words.txt      # Dictionary file for validation
